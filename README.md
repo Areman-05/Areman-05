@@ -1,9 +1,14 @@
 ## Hi there 👋
 
-Hola, soy un estudiante de DAM en La Salle Gracia en Barcelona, dispuesto a aprender todo lo relacionado a la programación. 
+<h3>🔎 About me :</h3>
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
+- 🔭 Actualmente estoy estudiando **DAM** en la **Salle Gracia** en **Barcelona**
+- 🌱 Estoy aprendiendo **HTML, Java, JavaScript, Python, MYSQL**
+- 😍 Me gusta jugar a videojuegos, comer pizza Hawaiana y 💙programar💙
+- ⚡ Dato Curioso: James Gosling, el creador de Java, se inspiró en su amor por el café y eligió el nombre mientras saboreaba la bebida .
+- 📫 Como contactar conmigo: pab4822@outlook.com
+- 🍵 Me gusta el ***[cafe](https://www.buymeacoffee.com/hud0shnik)***
+
 
 ## Tecnologias 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
