@@ -12,3 +12,5 @@ Hola, soy un estudiante de DAM en La Salle Gracia en Barcelona, dispuesto a apre
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Las estadisticas del repositorio
+![Areman-05 GitHub stats](https://github-readme-stats.vercel.app/api?username=Areman-05&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Areman-05&layout=compact&theme=dark)
