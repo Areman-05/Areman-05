@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Pablo !
 
-Soy **DEVELOPER JUNIOR** con pasión por la programacion. Mi objetivo es crear proyectos que impacten positivamente y seguir aprendiendo constantemente. 
+Soy un joven **DEVELOPER JUNIOR** con pasión por la programacion. Mi objetivo es crear proyectos que impacten positivamente y seguir aprendiendo constantemente para seguir mejroando mis proyectos. 
 
 🌱 Aquí podrás conocer más sobre mí
 
