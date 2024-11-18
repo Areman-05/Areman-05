@@ -11,8 +11,6 @@ Soy **DEVELOPER JUNIOR** con pasión por la programacion. Mi objetivo es crear p
 - 😍 Me gusta jugar a videojuegos, comer pizza Hawaiana y 💙programar💙
 - ⚡ Dato Curioso: James Gosling, el creador de Java, se inspiró en su amor por el café y eligió el nombre mientras saboreaba la bebida .
 - 📫 Como contactar conmigo: pab4822@outlook.com
-- 🍵 Me gusta el ***[cafe]()***
-
 
 ## Tecnologias 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
