@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Pablo !
+
+Soy **DEVELOPER JUNIOR** con pasión por la programacion. Mi objetivo es crear proyectos que impacten positivamente y seguir aprendiendo constantemente. 
+
+🌱 Aquí podrás conocer más sobre mí
 
 <h3>🔎 About me :</h3>
 
@@ -15,10 +19,14 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-007396?style=flat&logo=java&logoColor=white)
 
-## Las estadisticas del repositorio
-![Areman-05 GitHub stats](https://github-readme-stats.vercel.app/api?username=Areman-05&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Areman-05&layout=compact&theme=dark)
+## 📊 Estadísticas de GitHub
+
+[![Tu usuario de GitHub](https://github-readme-stats.vercel.app/api?username=Areman-05&show_icons=true&count_private=true&theme=radical)](https://github.com/Areman-05)
+
+---
+
 ## 📩 ¿Tienes alguna pregunta?
 
 ¡No dudes en ponerte en contacto! Siempre estoy dispuesto a colaborar en nuevos proyectos y aprender de los demás. Puedes enviarme un mensaje a través de mi correo electronico que puedes encontrar en mi bio debajo de mi foto de perfil.
