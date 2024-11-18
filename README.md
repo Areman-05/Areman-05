@@ -7,7 +7,7 @@
 - 😍 Me gusta jugar a videojuegos, comer pizza Hawaiana y 💙programar💙
 - ⚡ Dato Curioso: James Gosling, el creador de Java, se inspiró en su amor por el café y eligió el nombre mientras saboreaba la bebida .
 - 📫 Como contactar conmigo: pab4822@outlook.com
-- 🍵 Me gusta el ***[cafe](https://www.buymeacoffee.com/hud0shnik)***
+- 🍵 Me gusta el ***[cafe]()***
 
 
 ## Tecnologias 💻
@@ -19,3 +19,8 @@
 
 ## Las estadisticas del repositorio
 ![Areman-05 GitHub stats](https://github-readme-stats.vercel.app/api?username=Areman-05&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Areman-05&layout=compact&theme=dark)
+## 📩 ¿Tienes alguna pregunta?
+
+¡No dudes en ponerte en contacto! Siempre estoy dispuesto a colaborar en nuevos proyectos y aprender de los demás. Puedes enviarme un mensaje a través de mi correo electronico que puedes encontrar en mi bio debajo de mi foto de perfil.
+
+---
