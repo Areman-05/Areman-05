@@ -16,15 +16,3 @@ Soy un joven **DEVELOPER JUNIOR** con pasión por la programacion. Mi objetivo e
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-## 📊 Estadísticas de GitHub
-
-[![Tu usuario de GitHub](https://github-readme-stats.vercel.app/api?username=Areman-05&show_icons=true&count_private=true&theme=radical)](https://github.com/Areman-05)
-
----
-
-## 📩 ¿Tienes alguna pregunta?
-
-¡No dudes en ponerte en contacto! Siempre estoy dispuesto a colaborar en nuevos proyectos y aprender de los demás. Puedes enviarme un mensaje a través de mi correo electronico que puedes encontrar en mi bio debajo de mi foto de perfil.
-
----
