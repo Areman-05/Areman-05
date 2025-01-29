@@ -13,7 +13,11 @@ Soy un joven **DEVELOPER JUNIOR** con pasión por la programacion. Mi objetivo e
 - 📫 Como contactar conmigo: pab4822@outlook.com
 
 ## Estudios en curso 💻
-Ciclo superior de Diseño de Aplicaciones Multiplataforma (2024-2026). El qual lo estoy cursando en La Salle de Grácia (Barcelona).
+- Ciclo superior de Diseño de Aplicaciones Multiplataforma (2024-2026). El qual lo estoy cursando en La Salle de Grácia (Barcelona).
+
+Estoy aprendiendo a programar aplicaciones multiplataforma con lenguajes como Java, Python y HTML. También me estoy especializando
+en bases de datos, interfaces gráficas y desarrollo de videojuegos. El ciclo incluye formación en metodologías ágiles y buenas prácticas
+de programación para crear soluciones innovadoras y eficientes.
 
 ## Lenguajes Informaticos 💻
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,3 +25,7 @@ Ciclo superior de Diseño de Aplicaciones Multiplataforma (2024-2026). El qual l
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+Tengo experiencia en el desarrollo de aplicaciones y páginas web utilizando HTML5 y CSS, 
+así como en la programación con Python y Java. Además, cuento con conocimientos sólidos en bases de datos, 
+trabajando con SQL para diseñar y gestionar sistemas eficientes.
