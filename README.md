@@ -12,7 +12,8 @@ Soy un joven apasionado por la tecnología y el desarrollo de aplicaciones. Me e
 - ⚡ Dato Curioso: James Gosling, el creador de Java, se inspiró en su amor por el café y eligió el nombre mientras saboreaba la bebida .
 - 📫 Como contactar conmigo: pab4822@outlook.com
 
-## Estudios en curso 💻
+# Estudios en curso <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+
 - Ciclo superior de Diseño de Aplicaciones Multiplataforma (2024-2026). El qual lo estoy cursando en La Salle de Grácia (Barcelona).
 
 Estoy aprendiendo a programar aplicaciones multiplataforma con lenguajes como Java, Python y HTML. También me estoy especializando
