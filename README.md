@@ -19,7 +19,7 @@ Estoy aprendiendo a programar aplicaciones multiplataforma con lenguajes como Ja
 en bases de datos, interfaces gráficas y desarrollo de videojuegos. El ciclo incluye formación en metodologías ágiles y buenas prácticas
 de programación para crear soluciones innovadoras y eficientes.
 
-<h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> Lenguajes Informaticos 💻 </h2> 
+<h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> Lenguajes Informaticos </h2> 
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-2965f1.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,6 +30,8 @@ de programación para crear soluciones innovadoras y eficientes.
 Tengo experiencia en el desarrollo de aplicaciones y páginas web utilizando HTML5 y CSS, 
 así como en la programación con Python y Java. Además, cuento con conocimientos sólidos en bases de datos, 
 trabajando con SQL para diseñar y gestionar sistemas eficientes.
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" width="100" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=200"/>
