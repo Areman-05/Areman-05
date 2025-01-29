@@ -31,5 +31,5 @@ así como en la programación con Python y Java. Además, cuento con conocimient
 trabajando con SQL para diseñar y gestionar sistemas eficientes.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=200"/>
 </p>
