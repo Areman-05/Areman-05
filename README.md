@@ -29,3 +29,7 @@ de programación para crear soluciones innovadoras y eficientes.
 Tengo experiencia en el desarrollo de aplicaciones y páginas web utilizando HTML5 y CSS, 
 así como en la programación con Python y Java. Además, cuento con conocimientos sólidos en bases de datos, 
 trabajando con SQL para diseñar y gestionar sistemas eficientes.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
