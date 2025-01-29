@@ -20,7 +20,7 @@ Estoy aprendiendo a programar aplicaciones multiplataforma con lenguajes como Ja
 en bases de datos, interfaces gráficas y desarrollo de videojuegos. El ciclo incluye formación en metodologías ágiles y buenas prácticas
 de programación para crear soluciones innovadoras y eficientes.
 
-<h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> Lenguajes Informaticos </h2> 
+# Lengaujes Informaticos <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-2965f1.svg?style=for-the-badge&logo=css3&logoColor=white)
