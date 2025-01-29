@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=200"/>
-</p>
-
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hola, Soy Pablo! </h2>
 
-Soy un joven **DEVELOPER JUNIOR** con pasión por la programacion. Mi objetivo es crear proyectos que impacten positivamente y seguir aprendiendo constantemente para seguir mejroando mis proyectos. 
+Soy un joven apasionado por la tecnología y el desarrollo de aplicaciones. Me encanta aprender cosas nuevas, superar retos y aportar ideas creativas a cada proyecto en el que participo. Como estudiante de Desarrollo de Aplicaciones Multiplataforma, estoy comprometido con el aprendizaje continuo, no solo para crecer profesionalmente, sino también para enfrentar desafíos con curiosidad y determinación. Mi objetivo es contribuir con soluciones innovadoras que marquen la diferencia, combinando creatividad, esfuerzo y una gran pasión por el desarrollo de software. 
 
 🌱 Aquí podrás conocer más sobre mí
 
