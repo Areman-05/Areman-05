@@ -27,6 +27,8 @@ de programación para crear soluciones innovadoras y eficientes.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Areman-05&show_icons=true&theme=dark&locale=en&layout=compact" alt="h-fares" align=center/></p>
+
 Tengo experiencia en el desarrollo de aplicaciones y páginas web utilizando HTML5 y CSS, 
 así como en la programación con Python y Java. Además, cuento con conocimientos sólidos en bases de datos, 
 trabajando con SQL para diseñar y gestionar sistemas eficientes.
