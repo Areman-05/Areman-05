@@ -21,7 +21,8 @@ Apasionado del desarrollo de software y la tecnología, siempre buscando aprende
 
 🚀 Mi objetivo profesional es **participar en proyectos desafiantes** que combinen **innovación 💡, calidad ⭐ y funcionalidad ⚙️**, aportando valor en cada etapa del desarrollo.  
 
-📫 **Contacto:** pab4822@outlook.com
+📫 **Contacto:**  
+- ✉️ Email: pab4822@outlook.com  
 - 💼 [LinkedIn](https://www.linkedin.com/)  
 - 📸 [Instagram](https://www.instagram.com/)  
 
