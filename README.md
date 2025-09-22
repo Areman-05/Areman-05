@@ -46,6 +46,7 @@ Apasionado del desarrollo de software y la tecnología, siempre buscando aprende
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![XML](https://img.shields.io/badge/xml-%230000FF.svg?style=for-the-badge&logo=xml&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 Tengo experiencia en el desarrollo de aplicaciones y páginas web utilizando HTML5 y CSS, 
