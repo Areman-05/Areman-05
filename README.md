@@ -22,8 +22,11 @@ Fuera del desarrollo, disfruto explorando nuevas ideas, jugando a videojuegos y 
 📫 **Contacto:** pab4822@outlook.com
 
 ---
+<h2 align="left">🛠 Tecnologias y Herramientas</h2>
 
-## 🛠 Lenguajes Informaticos
+###
+
+<h3 align="left"> Lenguajes Informaticos</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
@@ -54,7 +57,7 @@ Fuera del desarrollo, disfruto explorando nuevas ideas, jugando a videojuegos y 
   <img width="12" />
 </div>
 
-## 🛠 Frameworks y Herramientas
+<h3 align="left"> Frameworks y Herramientas</h3>
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
  
