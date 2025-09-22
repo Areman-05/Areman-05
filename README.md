@@ -53,7 +53,8 @@ Fuera del desarrollo, disfruto explorando nuevas ideas, jugando a videojuegos y 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Xampp_logo.svg" height="40" alt="XAMPP logo" />
   <img width="12" />
 </div>
 
@@ -75,6 +76,8 @@ Fuera del desarrollo, disfruto explorando nuevas ideas, jugando a videojuegos y 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Xampp_logo.svg" height="40" alt="XAMPP logo" />
+   <img width="12" />
 </div>
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
