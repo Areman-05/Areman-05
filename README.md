@@ -23,10 +23,10 @@ Fuera del desarrollo, disfruto explorando nuevas ideas, jugando a videojuegos y 
 
 ---
 
-<h2 align="left">🛠 Tecnologias y Herramientas</h2>
+<h3 align="left">🛠 Tecnologias y Herramientas</h3>
 
 
-<h3 align="left"> Lenguajes Informaticos</h3>
+<h4 align="left"> Lenguajes Informaticos</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
@@ -57,7 +57,7 @@ Fuera del desarrollo, disfruto explorando nuevas ideas, jugando a videojuegos y 
   <img width="12" />
 </div>
 
-<h3 align="left"> Frameworks y Herramientas</h3>
+<h4 align="left"> Frameworks y Herramientas</h4>
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
  
