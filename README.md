@@ -1,8 +1,6 @@
  # Hola, Soy Pablo!👋  
 **Estudiante de 2º DAM | Desarrollador Multiplataforma**  
 
-<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" alt="icon" width="50" />
-
 Apasionado del desarrollo de software y la tecnología, siempre buscando aprender, superar retos y crear soluciones innovadoras. Me encanta programar, experimentar con nuevas herramientas y aportar valor en cada proyecto en el que participo.  
 
 ---
