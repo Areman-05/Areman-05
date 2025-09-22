@@ -22,9 +22,9 @@ Fuera del desarrollo, disfruto explorando nuevas ideas, jugando a videojuegos y 
 📫 **Contacto:** pab4822@outlook.com
 
 ---
+
 <h2 align="left">🛠 Tecnologias y Herramientas</h2>
 
-###
 
 <h3 align="left"> Lenguajes Informaticos</h3>
 
