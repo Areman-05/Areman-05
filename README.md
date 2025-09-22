@@ -54,8 +54,6 @@ Fuera del desarrollo, disfruto explorando nuevas ideas, jugando a videojuegos y 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Xampp_logo.svg" height="40" alt="XAMPP logo" />
-  <img width="12" />
 </div>
 
 <h4 align="left"> Frameworks y Herramientas</h4>
