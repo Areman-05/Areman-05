@@ -6,13 +6,6 @@
 Apasionado del desarrollo de software y la tecnología, siempre buscando aprender, superar retos y crear soluciones innovadoras. Me encanta programar, experimentar con nuevas herramientas y aportar valor en cada proyecto en el que participo.  
 
 ---
-**Estudiante de 2º DAM | Desarrollador Multiplataforma**  
-
-<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" alt="icon" width="50" />
-
-Apasionado del desarrollo de software y la tecnología, siempre buscando aprender, superar retos y crear soluciones innovadoras. Me encanta programar, experimentar con nuevas herramientas y aportar valor en cada proyecto en el que participo.  
-
----
 
 Soy un joven apasionado por la tecnología y el desarrollo de aplicaciones. Me encanta aprender cosas nuevas, superar retos y aportar ideas creativas a cada proyecto en el que participo. Como estudiante de Desarrollo de Aplicaciones Multiplataforma, estoy comprometido con el aprendizaje continuo, no solo para crecer profesionalmente, sino también para enfrentar desafíos con curiosidad y determinación. Mi objetivo es contribuir con soluciones innovadoras que marquen la diferencia, combinando creatividad, esfuerzo y una gran pasión por el desarrollo de software. 
 
