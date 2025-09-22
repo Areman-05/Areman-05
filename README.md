@@ -5,7 +5,7 @@ Apasionado del desarrollo de software y la tecnología, siempre buscando aprende
 
 ---
 
-## 🔎 Sobre mí
+<h3 align="left">🔎 Sobre mí</h3>
 
 Soy un desarrollador en formación con sólida base en **aplicaciones web, móviles y backend**, enfocado en crear soluciones eficientes, escalables y fáciles de mantener. Actualmente curso **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** en **La Salle Gracia**, Barcelona, donde combino la práctica con el aprendizaje continuo de nuevas tecnologías.  
 
@@ -77,6 +77,20 @@ Fuera del desarrollo, disfruto explorando nuevas ideas, jugando a videojuegos y 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Xampp_logo.svg" height="40" alt="XAMPP logo" />
    <img width="12" />
 </div>
+
+
+---
+
+
+<h3 align="left">📊 GitHub Statistics</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XCDavidXD2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=XCDavidXD2&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
+
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
  
