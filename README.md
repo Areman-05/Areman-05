@@ -1,21 +1,3 @@
-# Hola, Soy Pablo!👋  
-**Estudiante de 2º DAM | Desarrollador Multiplataforma**  
-
-Apasionado del desarrollo de software y la tecnología, siempre buscando aprender, superar retos y crear soluciones innovadoras. Me encanta programar, experimentar con nuevas herramientas y aportar valor en cada proyecto en el que participo.  
-
----
-
-Soy un joven apasionado por la tecnología y el desarrollo de aplicaciones. Me encanta aprender cosas nuevas, superar retos y aportar ideas creativas a cada proyecto en el que participo. Como estudiante de Desarrollo de Aplicaciones Multiplataforma, estoy comprometido con el aprendizaje continuo, no solo para crecer profesionalmente, sino también para enfrentar desafíos con curiosidad y determinación. Mi objetivo es contribuir con soluciones innovadoras que marquen la diferencia, combinando creatividad, esfuerzo y una gran pasión por el desarrollo de software. 
-
-
-<h3>🔎 Sobre mi:</h3>
-
-- 🔭 Actualmente estoy estudiando **DAM** en la **Salle Gracia** en **Barcelona**
-- 🌱 Estoy aprendiendo **HTML, Java, JavaScript, Python, MYSQL**
-- 😍 Me gusta jugar a videojuegos, comer pizza Hawaiana y 💙programar💙
-- ⚡ Dato Curioso: James Gosling, el creador de Java, se inspiró en su amor por el café y eligió el nombre mientras saboreaba la bebida .
-- 📫 Como contactar conmigo: pab4822@outlook.com
-
 # Hola, Soy Pablo! 👋  
 **Estudiante de 2º DAM | Desarrollador Multiplataforma**  
 
