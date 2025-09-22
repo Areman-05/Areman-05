@@ -23,7 +23,7 @@ Fuera del desarrollo, disfruto explorando nuevas ideas, jugando a videojuegos y 
 
 ---
 
-## 🛠 Lenguajes y Tecnologías <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+## 🛠 Lenguajes Informaticos
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
@@ -54,11 +54,7 @@ Fuera del desarrollo, disfruto explorando nuevas ideas, jugando a videojuegos y 
   <img width="12" />
 </div>
 
-
-
-Tengo experiencia en el desarrollo de aplicaciones y páginas web utilizando HTML5 y CSS, 
-así como en la programación con Python y Java. Además, cuento con conocimientos sólidos en bases de datos, 
-trabajando con SQL para diseñar y gestionar sistemas eficientes.
+## 🛠 Frameworks y Herramientas
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
  
