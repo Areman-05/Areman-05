@@ -10,7 +10,7 @@
 
 👨‍💻 Soy un desarrollador en formación con sólida base en **aplicaciones web 🌐, móviles 📱 y backend ⚙️**, enfocado en crear soluciones **eficientes ⚡, escalables 🚀 y fáciles de mantener 🔧**. Actualmente curso **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** en **La Salle Gracia**, Barcelona 🇪🇸, donde combino la práctica con el aprendizaje continuo de nuevas tecnologías 💡.  
 
-💻 Mi experiencia incluye **Java ☕, HTML 🌐, CSS 🎨, JavaScript ⚡, Python 🐍, PHP 🐘, Kotlin 📱, Swift 🍏, XML 📄 y MySQL 🗄️**, lo que me permite abordar proyectos completos desde el **diseño de la interfaz 🎨** hasta la **lógica de negocio 🔎** y la **gestión de datos 💾**.  
+💻 Mi experiencia incluye **Java ☕, HTML 🌐, CSS 🎨, JavaScript ⚡, Python 🐍, PHP 🐘, Kotlin 📱, Swift 🍏, XML 📄 y MySQL 🗄️**, lo que me permite abordar proyectos completos desde el **diseño de la interfaz 🎨** hasta la **lógica de negocio 🔎** y la **gestión de datos**.  
 
 📌 Me caracterizo por:  
 - 🎯 Diseñar **interfaces limpias y funcionales**, siempre centradas en la experiencia del usuario.  
