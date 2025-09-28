@@ -27,6 +27,11 @@ Fuera del desarrollo, disfruto explorando nuevas ideas, jugando a videojuegos ğŸ
 - ğŸ“¸ [Instagram](https://www.instagram.com/areenass05/)  
 
 
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Areman-05&theme=tokyonight&column=4&no-frame=true&margin-w=15&margin-h=15" alt="Trofeos GitHub" />
+</div>
+
 ---
 
 
