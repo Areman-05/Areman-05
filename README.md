@@ -8,19 +8,17 @@
 
 <h3 align="left">🔎 Sobre mí</h3>
 
-👨‍💻 Soy un desarrollador en formación con sólida base en **aplicaciones web 🌐, móviles 📱 y backend ⚙️**, enfocado en crear soluciones **eficientes ⚡, escalables 🚀 y fáciles de mantener 🔧**. Actualmente curso **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** en **La Salle Gracia**, Barcelona 🇪🇸, donde combino la práctica con el aprendizaje continuo de nuevas tecnologías 💡.  
+Soy un desarrollador en formación con una sólida base en **aplicaciones web, móviles y backend**, enfocado en crear soluciones **eficientes, escalables y fáciles de mantener**.  
 
-💻 Mi experiencia incluye **Java ☕, HTML 🌐, CSS 🎨, JavaScript ⚡, Python 🐍, PHP 🐘, Kotlin 📱, Swift 🍏, XML 📄 y MySQL 🗄️**, lo que me permite abordar proyectos completos desde el **diseño de la interfaz 🎨** hasta la **lógica de negocio 🔎** y la **gestión de datos**.  
+Actualmente curso **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** en **La Salle Gracia (Barcelona, España)**, donde combino la práctica con el aprendizaje continuo de nuevas tecnologías.  
 
-📌 Me caracterizo por:  
-- 🎯 Diseñar **interfaces limpias y funcionales**, siempre centradas en la experiencia del usuario.  
-- 📝 Escribir **código claro y mantenible**, siguiendo buenas prácticas de programación.  
-- 🧩 Resolver problemas complejos con un **enfoque analítico y estructurado**.  
-- 🌱 Mantenerme en **constante actualización** sobre nuevas tecnologías y metodologías.  
+💻 Mi experiencia incluye **Java, Python, PHP, Kotlin, Swift, JavaScript, HTML, CSS, XML y MySQL**, lo que me permite abordar proyectos completos desde el **diseño de la interfaz** hasta la **lógica de negocio** y la **gestión de datos**.  
 
-🎮 Fuera del desarrollo, disfruto explorando nuevas ideas 💡, jugando a videojuegos 🎮 y analizando cómo mejorar la **interacción entre usuarios y sistemas 🔗**.  
+Me caracterizo por diseñar **interfaces limpias y funcionales**, escribir **código claro y mantenible**, y resolver problemas con un **enfoque analítico y estructurado**. Siempre busco mantenerme actualizado y mejorar mis habilidades.  
 
-🚀 Mi objetivo profesional es **participar en proyectos desafiantes** que combinen **innovación 💡, calidad ⭐ y funcionalidad ⚙️**, aportando valor en cada etapa del desarrollo.  
+Fuera del desarrollo, disfruto explorando nuevas ideas, jugando a videojuegos 🎮 y analizando cómo mejorar la **interacción entre usuarios y sistemas**.  
+
+🚀 Mi objetivo es **participar en proyectos desafiantes** que combinen innovación, calidad y funcionalidad, aportando valor en cada etapa del desarrollo.  
 
 
 📫 **Contacto:**  
