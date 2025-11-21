@@ -81,7 +81,6 @@ Fuera del desarrollo, disfruto explorando nuevas ideas, jugando a videojuegos ğŸ
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" height="40" alt="XAMPP logo" />
 </div>
 
 
