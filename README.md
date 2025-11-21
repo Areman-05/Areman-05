@@ -24,7 +24,6 @@ Fuera del desarrollo, disfruto explorando nuevas ideas, jugando a videojuegos �
 📫 **Contacto:**  
 - ✉️ Email: pab4822@outlook.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pablo-arenas-mancebo-6a719b354/)  
-- 📸 [Instagram](https://www.instagram.com/areenass05/)  
 - 🌐 [Página Web]( https://areman-05.github.io/Nuevo-Portafolio/)
 
 
