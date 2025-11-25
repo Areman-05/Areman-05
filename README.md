@@ -65,7 +65,7 @@ Mi stack completo me permite abordar proyectos desde el **diseño de interfaz** 
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Areman-05&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9CA3AF&icon_color=6B7280&text_color=9CA3AF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areman-05&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=9CA3AF&text_color=9CA3AF&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Areman-05&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9CA3AF&icon_color=6B7280&text_color=9CA3AF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areman-05&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=9CA3AF&text_color=9CA3AF&langs_count=6" alt="Top Languages" />
 
 </div>
