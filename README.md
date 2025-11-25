@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Pablo+Arenas;Desarrollador+Full+Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=40&pause=1000&color=9CA3AF&center=true&vCenter=true&width=700&lines=Pablo+Arenas;Desarrollador+Full+Stack" />
   
   <p>
     <sub>Desarrollando código limpio • Aprendiendo siempre</sub>
@@ -38,6 +38,8 @@ Mi stack completo me permite abordar proyectos desde el **diseño de interfaz** 
 
 ### 🛠️ Stack Tecnológico
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center" width="50%">
@@ -52,11 +54,15 @@ Mi stack completo me permite abordar proyectos desde el **diseño de interfaz** 
 <br>
 <img src="https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/C%23-1F2937?style=for-the-badge&logo=c-sharp&logoColor=239120" />
+<br>
 <img src="https://img.shields.io/badge/PHP-1F2937?style=for-the-badge&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/Laravel-1F2937?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
 <br>
 <img src="https://img.shields.io/badge/Kotlin-1F2937?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
 <img src="https://img.shields.io/badge/Swift-1F2937?style=for-the-badge&logo=swift&logoColor=FA7343" />
 <img src="https://img.shields.io/badge/Dart-1F2937?style=for-the-badge&logo=dart&logoColor=0175C2" />
+<img src="https://img.shields.io/badge/Flutter-1F2937?style=for-the-badge&logo=flutter&logoColor=02569B" />
 
 </div>
 
@@ -74,7 +80,10 @@ Mi stack completo me permite abordar proyectos desde el **diseño de interfaz** 
 <img src="https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=2496ED" />
 <br>
 <img src="https://img.shields.io/badge/VS_Code-1F2937?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Visual_Studio-1F2937?style=for-the-badge&logo=visual-studio&logoColor=5C2D91" />
+<br>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-1F2937?style=for-the-badge&logo=intellij-idea&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/PyCharm-1F2937?style=for-the-badge&logo=pycharm&logoColor=000000" />
 <img src="https://img.shields.io/badge/Android_Studio-1F2937?style=for-the-badge&logo=android-studio&logoColor=3DDC84" />
 
 </div>
@@ -82,6 +91,8 @@ Mi stack completo me permite abordar proyectos desde el **diseño de interfaz** 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
