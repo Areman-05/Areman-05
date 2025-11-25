@@ -61,8 +61,6 @@ Mi stack completo me permite abordar proyectos desde el **diseño de interfaz** 
 <br>
 <img src="https://img.shields.io/badge/Kotlin-1F2937?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
 <img src="https://img.shields.io/badge/Swift-1F2937?style=for-the-badge&logo=swift&logoColor=FA7343" />
-<img src="https://img.shields.io/badge/Dart-1F2937?style=for-the-badge&logo=dart&logoColor=0175C2" />
-<img src="https://img.shields.io/badge/Flutter-1F2937?style=for-the-badge&logo=flutter&logoColor=02569B" />
 
 </div>
 
