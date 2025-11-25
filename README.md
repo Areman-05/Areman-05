@@ -69,17 +69,3 @@ Mi stack completo me permite abordar proyectos desde el **diseño de interfaz** 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areman-05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=6&border_color=8B5CF6" />
 
 </div>
-
-<div align="center">
-  
-  ![GitHub Contributions](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=Areman-05&color=8B5CF6&style=flat-square" alt="Visitas al perfil" />
-  
-</div>
